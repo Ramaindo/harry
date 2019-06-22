@@ -64,7 +64,7 @@ client.on("message", async message => {
     // Calculates ping between sending a message and editing it, giving a nice round-trip latency.
     // The second ping is an average latency between the bot and the websocket server (one-way, not round-trip)
     const m = await message.channel.send("hmmm");
-    m.edit(`hey what? you need to connect your visa to Gulden currency, dm me your credit card information to recharge your balance, i aint scammin`);
+    m.edit(`hey what? you need to connect your visa to Gulden currency, dm me your credit card information to recharge your balance, i aint scammin bruv`);
   }
 
 
