@@ -180,7 +180,7 @@ if(command === "purge") {
 
   if (command === "help") {
     message.channel.sendMessage(":calling: It seems you have requested help. Check your DMs.");
-    message.author.sendMessage('Hei was je probleem, dm anders#1111 to get some help')
+    message.author.sendMessage('Hei was je probleem, dm anders#1111 to get some help or visit http://harryennatalie.ddns.net/ to take a look about this bot`s commands')
   }
 
 
